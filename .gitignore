@@ -1,0 +1,12 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore result files
+results/*.xml
+results/*.json
+
+# Ignore environment files
+.env
+.vscode/
+venv
